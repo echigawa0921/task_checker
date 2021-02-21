@@ -1,0 +1,50 @@
+.task_list {
+    min-width: 300px;
+    width: auto;
+    padding: 30px;
+    padding-top: 50px;
+  }
+  
+  .section {
+    display: flex;
+    position: relative;
+    align-items: center;
+    height: 50px;
+    width: 300px;
+    background-color: white;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+  }
+  
+  .section_ele {
+    color: rgb(70, 70, 70);
+    margin-left: 10px;
+    font-size: 18px;
+  }
+  
+  .task_field {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-height: 65vh;
+    margin-top: 10px;
+    overflow: auto;
+  }
+  
+  .task_field::-webkit-scrollbar {
+    display:none;
+  }
+  
+  .section > .add_circle_outline_icon {
+    position: absolute;
+    right: 10px;
+    font-size: 25px;
+    color: rgb(70, 70, 70);
+  }
+  
+  .contents {
+    display: flex;
+    height: calc(100vh - 120px);
+    width: 100%;
+    overflow: auto;
+  }
