@@ -1,3 +1,43 @@
+# Task_checker
+
+Trelloを意識してタスク管理ツールを作成しました。  
+物忘れが多いことからタスクツールを使用していましたが、入力する項目が多く続かなかったので、  
+最低限の入力項目で投稿できるものにしました。
+
+# 見本
+<img width="800" alt="スクリーンショット 2021-04-12 22 51 10" src="https://user-images.githubusercontent.com/69971834/114406239-57a0c400-9be2-11eb-8db5-40267fec07b5.png">
+
+
+
+# 環境
+React
+Typescript
+Ruby on rails 6.0.0
+ruby
+
+# 機能一覧
+・タスク投稿機能
+・タスク表示切り替え機能
+・タスク移動機能
+・期日超過タスクは赤になる機能
+・削除機能
+・編集機能
+
+# 使い方
+①Todoよりタスクを追加  
+②タスクが保留中であれば、「Pending」の欄へ、緊急度の高いタスクは「Doing」へ移動する。  
+③項目が赤くなっているものは、期限が過ぎているものなで、確認後削除しましょう。  
+④タスクの編集・削除は該当タスクをタップし下部画像の「削除」を選択  
+<img width="800" alt="スクリーンショット 2021-04-12 22 51 33" src="https://user-images.githubusercontent.com/69971834/114407108-0ba24f00-9be3-11eb-9498-79595f1f5b48.png">
+
+
+# 作成者
+yuki.Echigawa
+
+# 情報提供元
+TECH CAMP
+Thank you!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
