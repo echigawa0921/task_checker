@@ -38,7 +38,7 @@ yuki.Echigawa
 
 # 情報提供元
 TECH CAMP
-Thank you!
+
 
 # Getting Started with Create React App
 
