@@ -36,8 +36,7 @@ ruby.
 # 作成者
 yuki.Echigawa
 
-# 情報提供元
-TECH CAMP
+
 
 
 # Getting Started with Create React App
