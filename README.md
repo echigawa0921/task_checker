@@ -15,8 +15,8 @@ Trelloを意識してタスク管理ツールを作成しました。
 # 環境
 React.   
 Typescript.   
-Ruby on rails 6.0.0.  
-ruby.  
+ruby on rails 6.0.0.  
+Ruby
 
 # 機能一覧
 ・タスク投稿機能
